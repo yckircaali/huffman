@@ -1,1 +1,1 @@
-# huffman
+# Huffman Coding Compression Algorithm
