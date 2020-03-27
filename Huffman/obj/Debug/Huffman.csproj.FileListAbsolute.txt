@@ -1,0 +1,17 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\Huffman.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\Huffman.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\Huffman.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Huffman\Huffman\obj\Debug\Huffman.pdb
+C:\Users\MONSTER\Desktop\C#\Huffman\bin\Debug\Huffman.exe
+C:\Users\MONSTER\Desktop\C#\Huffman\bin\Debug\Huffman.pdb
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.MainForm.resources
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.exe
+C:\Users\MONSTER\Desktop\C#\Huffman\obj\Debug\Huffman.pdb
